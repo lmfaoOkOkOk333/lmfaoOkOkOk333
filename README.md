@@ -1,36 +1,49 @@
 # Solidity Language Support, Syntax Highlighting, and Themes for VSCode
 
-This extension enables solidity code highlighting for VSCode. It **only provides the language support** and themes, no active decoration or functionality. This is mainly to support solidity code highlighting in VSCode Web/github.dev. Go install [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor) instead if you want the fully blown super amazedazzle extension 🥰.
+Boost your Web3 development with our essential VSCode extension for Solidity. This extension provides crucial language support and sleek themes, making it a **must-have tool for developing decentralized applications (dApps) and smart contracts in the Web3 space.**
 
+For a full-featured development experience, including additional functionalities, install [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor) instead. This extension is focused on delivering essential language support and themes, particularly for Solidity coding in VSCode Web and GitHub.dev environments.
 
+## What’s New?
 
-This used to be inlined into [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor) and unless you're installing this on VSCode Web you probably want to install [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor) instead. However, breaking this out into its own extension allows us to be more flexible and provide a some support for VSCode Web /  https://github.dev.
+- **Dedicated Language Support**: While [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor) continues to offer full features, this standalone extension now provides essential language support and themes.
+- **VSCode Web Compatibility**: Supports minimal language features for Solidity in VSCode Web @ https://github.dev/.
 
-What changed?
+## Themes Included
 
-* [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor) now bundles with this extension to provide language support an themes.
-* We can now provide minimal language support for VSCode-Web @ https://github.dev/.
+**1. Solidity Visual Developer Light**
 
+Experience clean and clear syntax highlighting with our Light theme, perfect for daytime coding sessions.
 
-## Theme: Solidity Visual Developer Light (VSCode)
+![Light Theme](https://user-images.githubusercontent.com/2865694/61187576-6b1ca500-a673-11e9-8770-ff8b47d716ee.png)
 
-<img width="1364" alt="theme_light_vs" src="https://user-images.githubusercontent.com/2865694/61187576-6b1ca500-a673-11e9-8770-ff8b47d716ee.png">
+**2. Solidity Visual Developer Dark**
 
-
-## Theme: Solidity Visual Developer Dark
+Ideal for late-night coding, our Dark theme ensures that your code stands out and remains legible.
 
 **Simple DAO**
 
-<img width="981" alt="screenshot 2019-02-09 at 12 30 30" src="https://user-images.githubusercontent.com/2865694/52521879-58deab00-2c7e-11e9-9621-1afc73c918d8.png">
+![Simple DAO](https://user-images.githubusercontent.com/2865694/52521879-58deab00-2c7e-11e9-9621-1afc73c918d8.png)
 
 **Vulnerable Contract**
 
-![highlight](https://user-images.githubusercontent.com/2865694/52523502-4bcbb700-2c92-11e9-9ef1-085e3a244cda.png)
+![Vulnerable Contract](https://user-images.githubusercontent.com/2865694/52523502-4bcbb700-2c92-11e9-9ef1-085e3a244cda.png)
 
+**3. Solidity Visual Developer Solarized Light**
 
-## Theme: Solidity Visual Developer Solarized Light
+Enjoy a soothing coding experience with our Solarized Light theme, designed to reduce eye strain.
 
 **Simple DAO**
 
-<img width="970" alt="screenshot 2019-02-11 at 21 52 11" src="https://user-images.githubusercontent.com/2865694/52592696-5c715e00-2e47-11e9-99f4-32332e308ec3.png">
+![Solarized Light](https://user-images.githubusercontent.com/2865694/52592696-5c715e00-2e47-11e9-99f4-32332e308ec3.png)
 
+## Why This Extension?
+
+Whether you’re creating the next revolutionary dApp or developing robust smart contracts, having the right tools is crucial. This extension ensures that your Solidity code is visually appealing and easy to navigate, enhancing both productivity and accuracy.
+
+### Installation
+
+1. **For Full Features**: Install [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor) for a complete set of development tools.
+2. **For Minimal Language Support**: Add this extension to support Solidity syntax highlighting on VSCode Web and GitHub.dev.
+
+Stay ahead in Web3 development with streamlined language support and visually optimized themes. **Install today and elevate your Solidity coding experience!**
